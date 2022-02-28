@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/ACS/4/Cppfoundation/Assignment/assignment2/transaction.h
+
+F:/ACS/4/Cppfoundation/Assignment/assignment2/transactionList.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+set
+-
+vector
+-
+algorithm
+-
+transactionList.h
+F:/ACS/4/Cppfoundation/Assignment/assignment2/transactionList.h
+
+F:/ACS/4/Cppfoundation/Assignment/assignment2/transactionList.h
+transaction.h
+F:/ACS/4/Cppfoundation/Assignment/assignment2/transaction.h
+set
+-
+

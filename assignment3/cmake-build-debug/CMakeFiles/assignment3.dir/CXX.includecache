@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/ACS/4/Cppfoundation/Assignment/assignment3/Rational.h
+string
+-
+
+F:/ACS/4/Cppfoundation/Assignment/assignment3/Rational_Calc.h
+Rational.h
+F:/ACS/4/Cppfoundation/Assignment/assignment3/Rational.h
+
+F:/ACS/4/Cppfoundation/Assignment/assignment3/Rational_processor.cpp
+fstream
+-
+iostream
+-
+vector
+-
+Rational_processor.h
+F:/ACS/4/Cppfoundation/Assignment/assignment3/Rational_processor.h
+Rational.h
+F:/ACS/4/Cppfoundation/Assignment/assignment3/Rational.h
+Rational_Calc.h
+F:/ACS/4/Cppfoundation/Assignment/assignment3/Rational_Calc.h
+
+F:/ACS/4/Cppfoundation/Assignment/assignment3/Rational_processor.h
+string
+-
+
