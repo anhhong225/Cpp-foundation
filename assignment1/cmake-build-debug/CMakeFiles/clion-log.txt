@@ -1,0 +1,8 @@
+"D:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\ACS\4\Cppfoundation\Assignment\assignment1
+CMake Error: File F:/ACS/4/Cppfoundation/Assignment/assignment1/test.txt does not exist.
+CMake Error at CMakeLists.txt:10 (configure_file):
+  configure_file Problem configuring file
+
+
+-- Configuring incomplete, errors occurred!
+See also "F:/ACS/4/Cppfoundation/Assignment/assignment1/cmake-build-debug/CMakeFiles/CMakeOutput.log".
