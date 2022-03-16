@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="assignment_olt2new"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\new_implementation\;CMake Files\old_implementation\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="new_implementation">
+				<Option output="F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/new_implementation/new_implementation.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/new_implementation"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/new_implementation/Makefile&quot;  VERBOSE=1 new_implementation"/>
+					<CompileFile command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/new_implementation/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/new_implementation/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/new_implementation/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="new_implementation/fast">
+				<Option output="F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/new_implementation/new_implementation.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/new_implementation"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/new_implementation/Makefile&quot;  VERBOSE=1 new_implementation/fast"/>
+					<CompileFile command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/new_implementation/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/new_implementation/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/new_implementation/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="old_implementation">
+				<Option output="F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/old_implementation/old_implementation.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/old_implementation"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/old_implementation/Makefile&quot;  VERBOSE=1 old_implementation"/>
+					<CompileFile command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/old_implementation/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/old_implementation/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/old_implementation/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="old_implementation/fast">
+				<Option output="F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/old_implementation/old_implementation.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/old_implementation"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/old_implementation/Makefile&quot;  VERBOSE=1 old_implementation/fast"/>
+					<CompileFile command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/old_implementation/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/old_implementation/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/ACS/4/Cppfoundation/Assignment/assignment4/cmake-build-debug/old_implementation/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/new_implementation/main.cpp">
+			<Option target="new_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/new_implementation/message.cpp">
+			<Option target="new_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/new_implementation/message.h">
+			<Option target="new_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/new_implementation/message_broker.cpp">
+			<Option target="new_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/new_implementation/message_broker.h">
+			<Option target="new_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/new_implementation/message_reader.cpp">
+			<Option target="new_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/new_implementation/message_reader.h">
+			<Option target="new_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/old_implementation/main.c">
+			<Option target="old_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/old_implementation/message_api.c">
+			<Option target="old_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/old_implementation/message_api.h">
+			<Option target="old_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/old_implementation/message_broker.c">
+			<Option target="old_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/old_implementation/message_broker.h">
+			<Option target="old_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/old_implementation/message_list.c">
+			<Option target="old_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/old_implementation/message_list.h">
+			<Option target="old_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/old_implementation/timestamp.c">
+			<Option target="old_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/old_implementation/timestamp.h">
+			<Option target="old_implementation"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/messages.in">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/new_implementation/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\new_implementation\"/>
+		</Unit>
+		<Unit filename="F:/ACS/4/Cppfoundation/Assignment/assignment4/old_implementation/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\old_implementation\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
