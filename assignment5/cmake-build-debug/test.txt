@@ -1,0 +1,3 @@
+Alice has 3 rats.
+True of false: does Alice like rats?
+Answer: true
